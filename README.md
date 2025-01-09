@@ -115,8 +115,7 @@ No Painel 3 - Product Report, são apresentados 4 gráficos com dados consolidad
 
 ## Acesse o Projeto
 
- - Você pode acessar o projeto clicando [aqui](hthttps://github.com/FredericoSander/Projetos_em_Power_BI/tree/main/Criando%20um%20relat%C3%B3rio%20de%20vendas%20elegante/Projeto).
- - Você ainda pode interagir [relatório](https://bit.ly/DesafiodeProjetoDIO).
+ - Você pode acessar o projeto clicando [aqui](https://github.com/FredericoSander/Projetos_em_Power_BI/tree/main/Criando%20um%20relat%C3%B3rio%20de%20vendas%20elegante/Projeto), ou ainda pode interagir [relatório](https://bit.ly/DesafiodeProjetoDIO).
 
 ## Autor    
 
